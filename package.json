@@ -1,9 +1,9 @@
 {
-  "name": "@rogerchi/cdk-elb-next-available-priority",
+  "name": "@rogerchi/cdk-listener-next-available-priority",
   "description": "A CDK Construct that gets the next available priority for an ELB listener",
   "repository": {
     "type": "git",
-    "url": "https://github.com/rogerchi/elb-next-available-priority.git"
+    "url": "https://github.com/rogerchi/cdk-listener-next-available-priority.git"
   },
   "scripts": {
     "build": "npx projen build",
