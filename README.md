@@ -5,7 +5,7 @@ This is a CDK construct which implements a custom resource that gets the next av
 ## Usage
 
 ```ts
-const listenerNextAvailablePriority = new ListenerAvailablePriority(
+const listenerNextAvailablePriority = new ListenerNextAvailablePriority(
   this,
   'next-priority',
   { listener },
